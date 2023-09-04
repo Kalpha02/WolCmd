@@ -1,0 +1,14 @@
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Debug\net7.0\WolCmd.exe
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Debug\net7.0\WolCmd.deps.json
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Debug\net7.0\WolCmd.runtimeconfig.json
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Debug\net7.0\WolCmd.dll
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Debug\net7.0\WolCmd.pdb
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.AssemblyInfoInputs.cache
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.AssemblyInfo.cs
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.csproj.CoreCompileInputs.cache
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.dll
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\refint\WolCmd.dll
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.pdb
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\WolCmd.genruntimeconfig.cache
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\obj\Debug\net7.0\ref\WolCmd.dll
