@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "5+9FfHVT9Qqs0KiWDJWSeGTROW7AhBLUFL1zYO0R3PqxAkyFEDC6Y8FNBj1Av9X8yUSVGk6WPrvqyuWcy+8sKg==",
+  "dgSpecHash": "JNLipUK8ThUM9s9X/EDW5D74Q6lua8snUkRukehK8bfBt+C16LJZ6cmqmJaFIN5GVMYAEaTjL48bMxcIu4/QKA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Pascal\\Documents\\Projekte\\Visual Studio\\Privat\\WolCmd\\WolCmd\\WoL.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,10 @@
     "C:\\Users\\Pascal\\.nuget\\packages\\microsoft.windows.sdk.win32metadata\\52.0.65-preview\\microsoft.windows.sdk.win32metadata.52.0.65-preview.nupkg.sha512",
     "C:\\Users\\Pascal\\.nuget\\packages\\microsoft.windows.wdk.win32metadata\\0.7.3-experimental\\microsoft.windows.wdk.win32metadata.0.7.3-experimental.nupkg.sha512",
     "C:\\Users\\Pascal\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
-    "C:\\Users\\Pascal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\Pascal\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Pascal\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.12\\microsoft.aspnetcore.app.runtime.win-x64.7.0.12.nupkg.sha512",
+    "C:\\Users\\Pascal\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.12.nupkg.sha512",
+    "C:\\Users\\Pascal\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.12\\microsoft.netcore.app.runtime.win-x64.7.0.12.nupkg.sha512"
   ],
   "logs": []
 }

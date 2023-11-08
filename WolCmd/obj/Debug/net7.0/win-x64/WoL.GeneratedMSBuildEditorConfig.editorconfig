@@ -1,0 +1,17 @@
+is_global = true
+build_property.CsWin32InputMetadataPaths = C:\Users\Pascal\.nuget\packages\microsoft.windows.sdk.win32metadata\52.0.65-preview\Windows.Win32.winmd|C:\Users\Pascal\.nuget\packages\microsoft.windows.wdk.win32metadata\0.7.3-experimental\Windows.Wdk.winmd
+build_property.CsWin32InputDocPaths = C:\Users\Pascal\.nuget\packages\microsoft.windows.sdk.win32docs\0.1.41-alpha\apidocs.msgpack
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = 
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = WoL
+build_property.ProjectDir = C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\

@@ -1,0 +1,3 @@
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Release\net7.0\win-x64\publish\linux-x64\WoL.pdb
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Release\net7.0\win-x64\publish\linux-x64\BasicDatatypesExtension.pdb
+C:\Users\Pascal\Documents\Projekte\Visual Studio\Privat\WolCmd\WolCmd\bin\Release\net7.0\win-x64\publish\linux-x64\WoL

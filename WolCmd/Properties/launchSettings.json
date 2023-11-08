@@ -1,7 +1,8 @@
 {
   "profiles": {
     "WolCmd": {
-      "commandName": "Project"
+      "commandName": "Project",
+      "commandLineArgs": "aabbccddeeff -d -addbytes=1172 -ping 7"
     }
   }
 }
